@@ -1,2 +1,2 @@
 School Management Webpage !!!
-webpage : 
+webpage : https://rohan45-j.github.io/bubt/
